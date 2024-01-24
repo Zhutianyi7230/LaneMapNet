@@ -1,5 +1,5 @@
 # LaneMapNet
-The code implementation of LaneMapNet.
+The code implementation of LaneMapNet,  a unified end-to-end model designed for both HD Map Construction and Lane Network Recognization using a BEV perception framework.
 
 | Method | Backbone | 2D to BEV | Config | Checkpoint |
 | ------ | ------- |  -------- | -------- | -------- |
